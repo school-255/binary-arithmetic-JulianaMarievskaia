@@ -36,7 +36,7 @@ N = ddmmyyyy
 
 **Ответ:**
 ```C++
-N = xxxxxxxx
+N = 23032006
 ```
 
 ## Задание 1
@@ -51,7 +51,7 @@ _место для заметок_
 
 **Ответ:**
 ```C++
-N = 0xXXXXXXXX
+N = 0x015F70C6
 ```
 
 ## Задание 2
@@ -116,9 +116,9 @@ _место для заметок_
 
 **Ответ:**
 ```C++
-Moff    = 0bxxxxxxxx; // 0xXX
-Mon     = 0bxxxxxxxx; // 0xXX
-Mtoggle = 0bxxxxxxxx; // 0xXX
+Moff    = 0b11001101; // 0xCD
+Mon     = 0b11001100; // 0xCC
+Mtoggle = 0b01010001; // 0x51
 ```
 
 ## Задание 4
